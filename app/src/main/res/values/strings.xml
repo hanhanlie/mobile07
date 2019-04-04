@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mobile07</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="temp">Temperature</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="sealevel">Sea Level</string>
+</resources>
